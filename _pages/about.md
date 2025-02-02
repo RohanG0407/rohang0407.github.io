@@ -13,12 +13,12 @@ Previously, I worked in the [Purdue University Programming Languages Group (PurP
 
 Publications
 ------
-- RT–BarnesHut: Accelerating Barnes–Hut Using Ray-Tracing Hardware
-  Vani Nagarajan, **Rohan Gangaraju**, Kirshanthan Sundararajah, Artem Pelenitsyn, Milind Kulkarni
+- [RT–BarnesHut: Accelerating Barnes–Hut Using Ray-Tracing Hardware](https://ppopp25.sigplan.org/details/PPoPP-2025-Main-Conference-1/36/RT-BarnesHut-Accelerating-Barnes-Hut-Using-Ray-Tracing-Hardware) \
+  Vani Nagarajan, **Rohan Gangaraju**, Kirshanthan Sundararajah, Artem Pelenitsyn, Milind Kulkarni \
   PPoPP (Principles and Practice of Parallel Programming), 2025
 
-- [Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution](https://arxiv.org/pdf/2308.01554)
-  Charitha Saumya, **Rohan Gangaraju**, Kirshanthan Sundararajah, Milind Kulkarni
+- [Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution](https://arxiv.org/pdf/2308.01554) \
+  Charitha Saumya, **Rohan Gangaraju**, Kirshanthan Sundararajah, Milind Kulkarni \
   ArXiv, 2023
 
 News
