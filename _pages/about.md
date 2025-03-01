@@ -13,7 +13,7 @@ Previously, I worked in the [Purdue University Programming Languages Group (PurP
 
 Publications
 ------
-- [RT–BarnesHut: Accelerating Barnes–Hut Using Ray-Tracing Hardware](https://ppopp25.sigplan.org/details/PPoPP-2025-Main-Conference-1/36/RT-BarnesHut-Accelerating-Barnes-Hut-Using-Ray-Tracing-Hardware) \
+- [RT–BarnesHut: Accelerating Barnes–Hut Using Ray-Tracing Hardware](https://dl.acm.org/doi/10.1145/3710848.3710885) \
   Vani Nagarajan, **Rohan Gangaraju**, Kirshanthan Sundararajah, Artem Pelenitsyn, Milind Kulkarni \
   PPoPP (Principles and Practice of Parallel Programming), 2025
 
