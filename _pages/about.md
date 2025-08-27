@@ -23,6 +23,7 @@ Publications
 
 News
 ------
+- 5/25: Started internship @ Apple in Cupertino
 - 1/25: Paper on accelerating irregular applciations with ray tracing cores accepted at PPoPP25
 - 8/24: Began CS PhD @ UT Austin
 - 5/24: Started internship @ Apple in Cupertino
