@@ -13,13 +13,13 @@ Previously, I worked in the [Purdue University Programming Languages Group (PurP
 
 Publications
 ------
+- [Taming the Hydra: Targeted Control-Flow Transformations for Dynamic Symbolic Execution](https://arxiv.org/html/2308.01554v2) \
+  Charitha Saumya, Muhammad Hassan, **Rohan Gangaraju**, Kirshanthan Sundararajah, Milind Kulkarni \
+  OOPSLA 2026 
+  
 - [RT–BarnesHut: Accelerating Barnes–Hut Using Ray-Tracing Hardware](https://dl.acm.org/doi/10.1145/3710848.3710885) \
   Vani Nagarajan, **Rohan Gangaraju**, Kirshanthan Sundararajah, Artem Pelenitsyn, Milind Kulkarni \
-  PPoPP (Principles and Practice of Parallel Programming), 2025
-
-- [Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution](https://arxiv.org/pdf/2308.01554) \
-  Charitha Saumya, **Rohan Gangaraju**, Kirshanthan Sundararajah, Milind Kulkarni \
-  ArXiv, 2023
+  PPoPP 2025
 
 News
 ------
